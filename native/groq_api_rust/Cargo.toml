@@ -1,0 +1,17 @@
+[package]
+name = "groq_api_rust"
+version = "0.1.0"
+author = "Ayush Shukla"
+edition = "2021"
+
+[lib]
+name="groq_api_rust"
+path="src/lib.rs"
+crate-type=["cdylib"]
+
+[dependencies]
+serde = {version="1.0", features = ["derive"]}
+dotenv = "0.15"
+tokio = {version="1", features=["full"]}
+groq-api-rust = "0.2.51"
+rustler = "0.35.1"
