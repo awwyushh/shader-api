@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/ayush/Documents/gemai/shader_api/native/groq_api_rust/target/debug/build/mime_guess-3d62f28d1acf45cd/out/mime_types_generated.rs

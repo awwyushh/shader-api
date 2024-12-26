@@ -1,0 +1,11 @@
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/libsocket2-24d2a1f072801db9.rmeta: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockaddr.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/socket.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockref.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sys/unix.rs
+
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/libsocket2-24d2a1f072801db9.rlib: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockaddr.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/socket.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockref.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sys/unix.rs
+
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/socket2-24d2a1f072801db9.d: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockaddr.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/socket.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockref.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sys/unix.rs
+
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/lib.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockaddr.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/socket.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sockref.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.8/src/sys/unix.rs:

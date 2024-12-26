@@ -1,0 +1,12 @@
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/libmime_guess-16c75f9feda59571.rmeta: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/impl_bin_search.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/mime_types.rs /home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/build/mime_guess-bc313b69acb143e1/out/mime_types_generated.rs
+
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/libmime_guess-16c75f9feda59571.rlib: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/impl_bin_search.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/mime_types.rs /home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/build/mime_guess-bc313b69acb143e1/out/mime_types_generated.rs
+
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/deps/mime_guess-16c75f9feda59571.d: /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/lib.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/impl_bin_search.rs /home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/mime_types.rs /home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/build/mime_guess-bc313b69acb143e1/out/mime_types_generated.rs
+
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/lib.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/impl_bin_search.rs:
+/home/ayush/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess-2.0.5/src/mime_types.rs:
+/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/build/mime_guess-bc313b69acb143e1/out/mime_types_generated.rs:
+
+# env-dep:MIME_TYPES_GENERATED_PATH=/home/ayush/Documents/gemai/shader_api/_build/dev/lib/shader_api/native/groq_api_rust/release/build/mime_guess-bc313b69acb143e1/out/mime_types_generated.rs
