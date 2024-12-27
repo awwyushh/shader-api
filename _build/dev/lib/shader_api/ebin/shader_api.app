@@ -1,5 +1,5 @@
 {application,shader_api,
-    [{config_mtime,1735128456},
+    [{config_mtime,1735297493},
      {compile_env,
          [{shader_api,['Elixir.ShaderApi.Groq'],error},
           {shader_api,['Elixir.ShaderApiWeb.Gettext'],error}]},
